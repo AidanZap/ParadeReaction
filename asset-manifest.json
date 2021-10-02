@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ParadeReaction/static/css/main.a617e044.chunk.css",
+    "main.js": "/ParadeReaction/static/js/main.ed26dd64.chunk.js",
+    "main.js.map": "/ParadeReaction/static/js/main.ed26dd64.chunk.js.map",
+    "runtime-main.js": "/ParadeReaction/static/js/runtime-main.ed0d8c6e.js",
+    "runtime-main.js.map": "/ParadeReaction/static/js/runtime-main.ed0d8c6e.js.map",
+    "static/js/2.b31009bb.chunk.js": "/ParadeReaction/static/js/2.b31009bb.chunk.js",
+    "static/js/2.b31009bb.chunk.js.map": "/ParadeReaction/static/js/2.b31009bb.chunk.js.map",
+    "static/js/3.dbaae062.chunk.js": "/ParadeReaction/static/js/3.dbaae062.chunk.js",
+    "static/js/3.dbaae062.chunk.js.map": "/ParadeReaction/static/js/3.dbaae062.chunk.js.map",
+    "index.html": "/ParadeReaction/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ParadeReaction/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b31009bb.chunk.js.LICENSE.txt": "/ParadeReaction/static/js/2.b31009bb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ParadeReaction/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed0d8c6e.js",
+    "static/js/2.b31009bb.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ed26dd64.chunk.js"
+  ]
+}
