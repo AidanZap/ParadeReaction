@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/ParadeReaction/static/css/main.e5ae2d64.chunk.css",
-    "main.js": "/ParadeReaction/static/js/main.91a5b3ee.chunk.js",
-    "main.js.map": "/ParadeReaction/static/js/main.91a5b3ee.chunk.js.map",
+    "main.js": "/ParadeReaction/static/js/main.5c7cc663.chunk.js",
+    "main.js.map": "/ParadeReaction/static/js/main.5c7cc663.chunk.js.map",
     "runtime-main.js": "/ParadeReaction/static/js/runtime-main.27515eb0.js",
     "runtime-main.js.map": "/ParadeReaction/static/js/runtime-main.27515eb0.js.map",
-    "static/js/2.a587739c.chunk.js": "/ParadeReaction/static/js/2.a587739c.chunk.js",
-    "static/js/2.a587739c.chunk.js.map": "/ParadeReaction/static/js/2.a587739c.chunk.js.map",
+    "static/js/2.f48c78ec.chunk.js": "/ParadeReaction/static/js/2.f48c78ec.chunk.js",
+    "static/js/2.f48c78ec.chunk.js.map": "/ParadeReaction/static/js/2.f48c78ec.chunk.js.map",
     "index.html": "/ParadeReaction/index.html",
     "static/css/main.e5ae2d64.chunk.css.map": "/ParadeReaction/static/css/main.e5ae2d64.chunk.css.map",
-    "static/js/2.a587739c.chunk.js.LICENSE.txt": "/ParadeReaction/static/js/2.a587739c.chunk.js.LICENSE.txt",
+    "static/js/2.f48c78ec.chunk.js.LICENSE.txt": "/ParadeReaction/static/js/2.f48c78ec.chunk.js.LICENSE.txt",
     "static/media/CharacterCard.css": "/ParadeReaction/static/media/VisitorTT1BRK.c9df44a4.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.27515eb0.js",
-    "static/js/2.a587739c.chunk.js",
+    "static/js/2.f48c78ec.chunk.js",
     "static/css/main.e5ae2d64.chunk.css",
-    "static/js/main.91a5b3ee.chunk.js"
+    "static/js/main.5c7cc663.chunk.js"
   ]
 }
